@@ -4,12 +4,12 @@
 Email Me 👉 ✉️ **supradipbhattacharjee123@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning: Cyber Security** Enter your tech here
+- 🌱 **I’m currently learning: Cyber Security**
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
 - 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
+- 📫 **How to reach me: +91 7439175462**
+- 😄 **Pronouns: He/Him** 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
   
 ## 🌐 Socials:
