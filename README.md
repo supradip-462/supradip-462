@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:001D3D,70:003566,100:00B4D8&text=SUPRADIP%20BHATTACHARJEE&fontSize=36&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=CYBERSECURITY%20%7C%20ETHICAL%20HACKING%20%7C%20SECURITY%20ENGINEERING&descSize=13&descAlignY=58" width="100%" />
 
 <!-- Dynamic Typing Terminal -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=850&color=00D9FF&center=true&vCenter=true&width=720&lines=%3E_root%40supradip:~%23+.%2Finit_security_profile.sh;Cybersecurity+Enthusiast+%26+Ethical+Hacker+%F0%9F%94%90;Vulnerability+Assessment+%26+Penetration+Testing+%F0%9F%9B%A1%EF%B8%8F;Building+Automated+Security+Tools+in+Python+%F0%9F%90%8D;Recon.+Exploit.+Patch.+Secure." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=850&color=00D9FF&center=true&vCenter=true&width=720&lines=%3E_root%40supradip:~%24+.%2Finit_security_profile.sh;Cybersecurity+Enthusiast+%26+Ethical+Hacker+%F0%9F%94%90;Vulnerability+Assessment+%26+Penetration+Testing+%F0%9F%9B%A1%EF%B8%8F;Building+Automated+Security+Tools+in+Python+%F0%9F%90%8D;Recon.+Exploit.+Patch.+Secure." alt="Typing animation" />
 
 <br/>
 
@@ -14,7 +14,9 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=supradip-462&label=PROFILE+VIEWS&color=00B4D8&style=for-the-badge&labelColor=020617" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/supradip-462?label=FOLLOWERS&style=for-the-badge&color=0077B6&labelColor=020617" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/CLEARANCE-ETHICAL_HACKER-00D9FF?style=for-the-badge&labelColor=020617" alt="Clearance" />
+  <a href="https://tryhackme.com/p/supradip462">
+    <img src="https://img.shields.io/badge/TryHackMe-supradip462-00D9FF?style=for-the-badge&logo=tryhackme&logoColor=00D9FF&labelColor=020617" alt="TryHackMe Profile" />
+  </a>
   <img src="https://img.shields.io/badge/STATUS-HUNTING_VULNERABILITIES-00B4D8?style=for-the-badge&labelColor=020617" alt="Status" />
 </p>
 
@@ -28,6 +30,7 @@
 
 ```yaml
 Operator:     Supradip Bhattacharjee
+Handle:       supradip-462
 Location:     India 🇮🇳
 Role:         Cybersecurity Student & Security Tool Developer
 Focus Areas:  Offensive Security | AppSec | Threat Detection | Python Automation
@@ -84,8 +87,8 @@ Hey there! I'm **Supradip Bhattacharjee**. I dissect how digital infrastructure 
   <img src="https://img.shields.io/badge/Nmap-020617?style=for-the-badge&logo=linux&logoColor=00D9FF" />
   <img src="https://img.shields.io/badge/Burp_Suite-020617?style=for-the-badge&logo=burpsuite&logoColor=FF6633" />
   <img src="https://img.shields.io/badge/Wireshark-020617?style=for-the-badge&logo=wireshark&logoColor=00D9FF" />
-  <img src="https://img.shields.io/badge/Metasploit-020617?style=for-the-badge&logo=metasploit&logoColor=00D9FF" />
-  <img src="https://img.shields.io/badge/OWASP_ZAP-020617?style=for-the-badge&logo=owasp&logoColor=00D9FF" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-020617?style=for-the-badge&logo=zap&logoColor=00D9FF" />
+  <img src="https://img.shields.io/badge/Metasploit-001D3D?style=for-the-badge&label=FRAMEWORK&labelColor=020617&color=0077B6" />
 </p>
 
 ### 💻 Programming, Scripting & Web Stack
@@ -98,13 +101,13 @@ Hey there! I'm **Supradip Bhattacharjee**. I dissect how digital infrastructure 
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" alt="Development tools" />
 </p>
 
-### 📚 Standards & Frameworks Studied
+### 📚 Standards & Methodologies Studied
 <p>
-  <img src="https://img.shields.io/badge/OWASP_Top_10-001D3D?style=flat-square&logo=owasp&logoColor=00D9FF" />
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-001D3D?style=flat-square&logo=shield&logoColor=00D9FF" />
-  <img src="https://img.shields.io/badge/Cyber_Kill_Chain-001D3D?style=flat-square&logo=lockheedmartin&logoColor=00D9FF" />
-  <img src="https://img.shields.io/badge/NIST_Framework-001D3D?style=flat-square&logo=securityscorecard&logoColor=00D9FF" />
-  <img src="https://img.shields.io/badge/OSINT-001D3D?style=flat-square&logo=searxng&logoColor=00D9FF" />
+  <img src="https://img.shields.io/badge/STANDARD-OWASP_TOP_10-0077B6?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/FRAMEWORK-MITRE_ATT%26CK-0077B6?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/MODEL-CYBER_KILL_CHAIN-0077B6?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/COMPLIANCE-NIST_CSF-0077B6?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/RECON-OSINT-0077B6?style=for-the-badge&labelColor=020617" />
 </p>
 
 </div>
@@ -200,24 +203,50 @@ A responsive web application enabling instant background removal, built to maste
 
 ---
 
-## `05` | CTF Arenas, Labs & Wargames
+## `05` | CTF Arenas, Labs & TryHackMe
 
 <div align="center">
 
 *Sharpening offensive and defensive instincts through hands-on labs and Capture The Flag (CTF) environments:*
 
 <p>
-  <img src="https://img.shields.io/badge/TryHackMe-020617?style=for-the-badge&logo=tryhackme&logoColor=00D9FF" />
-  <img src="https://img.shields.io/badge/Hack_The_Box-020617?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
-  <img src="https://img.shields.io/badge/PortSwigger_Web_Security-020617?style=for-the-badge&logo=burpsuite&logoColor=FF6633" />
-  <img src="https://img.shields.io/badge/OverTheWire-020617?style=for-the-badge&logo=linux&logoColor=00D9FF" />
+  <a href="https://tryhackme.com/p/supradip462">
+    <img src="https://img.shields.io/badge/TryHackMe-020617?style=for-the-badge&logo=tryhackme&logoColor=00D9FF" alt="TryHackMe" />
+  </a>
+  <img src="https://img.shields.io/badge/Hack_The_Box-020617?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" />
+  <img src="https://img.shields.io/badge/PortSwigger_Web_Security-020617?style=for-the-badge&logo=burpsuite&logoColor=FF6633" alt="PortSwigger" />
+  <img src="https://img.shields.io/badge/OverTheWire-020617?style=for-the-badge&logo=linux&logoColor=00D9FF" alt="OverTheWire" />
 </p>
 
-| Platform / Lab Focus | Primary Skills Practiced |
-| :--- | :--- |
-| **Linux & Bash Wargames** | Privilege escalation, file permissions, cron jobs, SSH, regex filtering |
-| **Web Security Labs** | SQL Injection, Cross-Site Scripting (XSS), Broken Authentication, Burp Repeater |
-| **Network Security Labs** | Packet capture analysis, Nmap scripting (NSE), SMB/FTP/HTTP enumeration |
+<!-- TryHackMe Live Profile Badge (Update user_public_id with your numeric THM ID if needed) -->
+<a href="https://tryhackme.com/p/supradip462">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/supradip462.png" alt="TryHackMe Badge" />
+</a>
+
+<br/><br/>
+
+<table>
+<tr>
+<th>Platform / Lab Focus</th>
+<th>Primary Skills Practiced</th>
+</tr>
+<tr>
+<td><strong>TryHackMe Rooms & Paths</strong></td>
+<td>Pre-Security, Jr Penetration Tester, Web Fundamentals, Linux & Network Exploitation</td>
+</tr>
+<tr>
+<td><strong>Linux & Bash Wargames</strong></td>
+<td>Privilege escalation, file permissions, cron jobs, SSH, regex filtering</td>
+</tr>
+<tr>
+<td><strong>Web Security Labs</strong></td>
+<td>SQL Injection, Cross-Site Scripting (XSS), Broken Authentication, Burp Repeater</td>
+</tr>
+<tr>
+<td><strong>Network Security Labs</strong></td>
+<td>Packet capture analysis, Nmap scripting (NSE), SMB/FTP/HTTP enumeration</td>
+</tr>
+</table>
 
 </div>
 
@@ -225,12 +254,33 @@ A responsive web application enabling instant background removal, built to maste
 
 ## `06` | Learning Roadmap & Milestones
 
-| Status | Domain / Milestone | Focus Areas |
-| :---: | :--- | :--- |
-| ✅ | **Programming & Web Foundations** | Python scripting, HTML/CSS/JS, Git/GitHub workflows |
-| ✅ | **Core Security Tooling** | Password auditing, basic vulnerability scanning, phishing detection |
-| 🔄 | **Network & Web Exploitation** | TCP/IP internals, Wireshark traffic analysis, OWASP Top 10 labs |
-| 🎯 | **Target Certifications & Next Steps** | CompTIA Security+ / eJPT prep, Linux Privilege Escalation, Malware Analysis basics |
+<table>
+<tr>
+<th>Status</th>
+<th>Domain / Milestone</th>
+<th>Focus Areas</th>
+</tr>
+<tr>
+<td align="center">✅</td>
+<td><strong>Programming & Web Foundations</strong></td>
+<td>Python scripting, HTML/CSS/JS, Git/GitHub workflows</td>
+</tr>
+<tr>
+<td align="center">✅</td>
+<td><strong>Core Security Tooling</strong></td>
+<td>Password auditing, basic vulnerability scanning, phishing detection</td>
+</tr>
+<tr>
+<td align="center">🔄</td>
+<td><strong>Network & Web Exploitation</strong></td>
+<td>TryHackMe labs, TCP/IP internals, Wireshark analysis, OWASP Top 10</td>
+</tr>
+<tr>
+<td align="center">🎯</td>
+<td><strong>Target Certifications & Next Steps</strong></td>
+<td>CompTIA Security+ / eJPT prep, Linux Privilege Escalation, Malware Analysis basics</td>
+</tr>
+</table>
 
 ---
 
@@ -238,20 +288,16 @@ A responsive web application enabling instant background removal, built to maste
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=supradip-462&show_icons=true&hide_border=true&bg_color=020617&title_color=00D9FF&icon_color=00B4D8&text_color=CBD5E1&ring_color=00D9FF" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supradip-462&layout=compact&hide_border=true&bg_color=020617&title_color=00D9FF&text_color=CBD5E1" alt="Most used languages"/>
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=supradip-462&show_icons=true&hide_border=true&bg_color=020617&title_color=00D9FF&icon_color=00B4D8&text_color=CBD5E1&ring_color=00D9FF" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=supradip-462&layout=compact&hide_border=true&bg_color=020617&title_color=00D9FF&text_color=CBD5E1" alt="Most used languages"/>
 
 <br/>
 
-<img width="85%" src="https://streak-stats.demolab.com?user=supradip-462&theme=transparent&hide_border=true&background=020617&ring=00D9FF&fire=00B4D8&currStreakLabel=00D9FF&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub contribution streak"/>
+<img width="85%" src="https://streak-stats.demolab.com?user=supradip-462&hide_border=true&background=020617&ring=00D9FF&fire=00B4D8&currStreakLabel=00D9FF&sideLabels=CBD5E1&dates=94A3B8&stroke=003566&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=supradip-462&bg_color=020617&color=00D9FF&line=0077B6&point=FFFFFF&area=true&area_color=003566&hide_border=true&custom_title=Threat%20Hunting%20%26%20Code%20Activity" width="100%" alt="Contribution activity graph"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=supradip-462&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=4" width="100%" alt="GitHub trophies"/>
 
 </div>
 
@@ -290,6 +336,9 @@ Open to collaborating on **open-source security tools**, **CTF teams**, **Python
 
 <a href="https://github.com/supradip-462">
   <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+</a>
+<a href="https://tryhackme.com/p/supradip462">
+  <img src="https://img.shields.io/badge/TryHackMe-020617?style=for-the-badge&logo=tryhackme&logoColor=00D9FF"/>
 </a>
 <a href="https://www.linkedin.com/in/supradip-bhattacharjee-616615342">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
